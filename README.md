@@ -1,4 +1,4 @@
-# Android-Studio
+# Android Studio-JetPack Compose
 
 ## Lección 1: Funciones que admiten composición
 
