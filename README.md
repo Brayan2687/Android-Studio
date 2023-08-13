@@ -1,6 +1,6 @@
 # Android-Studio
 
-**Lección 1: Funciones que admiten composición**
+## Lección 1: Funciones que admiten composición
 
 
 **Agrega un elemento de texto:**
@@ -19,7 +19,7 @@
 
 
 
-**LECCION 2:**
+## LECCION 2
 
 
 **Agrega varios textos:**
@@ -44,7 +44,7 @@
 ![7](https://github.com/Brayan2687/Android-Studio/assets/128450523/ba54ac8e-d638-47ab-b30e-4822b113e938)
 
 
-**LECCIN 3**
+## LECCION 3
 
 
 **Usa Material Design:**
@@ -74,7 +74,7 @@
 ![12](https://github.com/Brayan2687/Android-Studio/assets/128450523/9910d8c6-8634-49bc-960e-02d9691d4d88)
 
 
-### LECCION 4:
+## LECCION 4:
 
 
 **Crea una lista de mensajes:**
